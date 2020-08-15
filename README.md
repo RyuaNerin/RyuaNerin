@@ -8,8 +8,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuanerin&layout=compact)
 
-  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)
-
-  [![StreamingRespirator](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=StreamingRespirator)](https://github.com/RyuaNerin/StreamingRespirator) [![only-stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=only-stackoverflow)](https://github.com/RyuaNerin/only-stackoverflow)
+  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio) [![only-stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=only-stackoverflow)](https://github.com/RyuaNerin/only-stackoverflow)
 
 </div>
