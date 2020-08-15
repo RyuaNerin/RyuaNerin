@@ -7,27 +7,23 @@
   ![Keybase PGP](https://img.shields.io/keybase/pgp/ryuanerin?style=flat-square)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryuanerin@gmail.com)](mailto:ryuanerin@gmail.com) 
 
-</div>
-
 - Amateur Programmer who like C#, go
 
--------
+  -------
 
-📊 **Weekly development breakdown**
+  📊 **Weekly development breakdown**
 
-<!--START_SECTION:waka-->
-```text
-Go         23 hrs 59 mins  █████████████████████░░░░   84.67 % 
-Markdown   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Python     53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-C          46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-C#         36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-```
-<!--END_SECTION:waka-->
+  <!--START_SECTION:waka-->
+  ```text
+  Go         23 hrs 59 mins  █████████████████████░░░░   84.67 % 
+  Markdown   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+  Python     53 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+  C          46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+  C#         36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+  ```
+  <!--END_SECTION:waka-->
 
--------
-
-<div align=center>
+  -------
 
   [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)
 
