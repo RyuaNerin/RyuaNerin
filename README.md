@@ -7,7 +7,7 @@
   ![Keybase PGP](https://img.shields.io/keybase/pgp/ryuanerin?style=flat-square)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryuanerin@gmail.com)](mailto:ryuanerin@gmail.com) 
 
-- Amateur Programmer who like C#, go
+  Amateur Programmer who like C#, go
 
   -------
 
