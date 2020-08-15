@@ -1,10 +1,4 @@
-# RyuaNerin
-
-Amateur Programmer who like C#, go
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<h2 align="center">Hello! I'm RyuaNerin 👋</h2>
 <div align=center>
 
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/unknown5766)](https://t.me/unknown5766)
@@ -15,9 +9,13 @@ Amateur Programmer who like C#, go
 
 </div>
 
-<a href="https://github.com/RyuaNerin/portfolio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio" />
-</a>
-<a href="https://github.com/RyuaNerin/only-stackoverflow">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=only-stackoverflow" />
-</a>
+- Amateur Programmer who like C#, go
+
+-------
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+-------
+
+[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)  [![only-stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=only-stackoverflow)](https://github.com/RyuaNerin/only-stackoverflow)
