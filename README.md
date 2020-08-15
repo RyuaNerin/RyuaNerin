@@ -27,4 +27,8 @@ C#         36 mins         ░░░░░░░░░░░░░░░░░�
 
 -------
 
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)  [![only-stackoverflow](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=only-stackoverflow)](https://github.com/RyuaNerin/only-stackoverflow)
+<div align=center>
+
+  [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)
+
+</div>
