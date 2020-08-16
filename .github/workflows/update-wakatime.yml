@@ -13,5 +13,3 @@ jobs:
       - uses: ryuanerin/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          DONE_BLOCK: '1'
-          EMPTY_BLOCK: '0'
