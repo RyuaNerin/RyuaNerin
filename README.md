@@ -20,6 +20,17 @@ Markdown   1 hr 46 mins    █                            5.91 %
 C          46 mins                                      2.55 % 
 C#         36 mins                                      2.04 % 
 Python     20 mins                                      1.14 % 
+Other      13 mins                                      0.76 % 
+C++        10 mins                                      0.60 % 
+HTML       10 mins                                      0.56 % 
+JSON       8 mins                                       0.45 % 
+YAML       6 mins                                       0.34 % 
+Text       5 mins                                       0.30 % 
+CSV        3 mins                                       0.22 % 
+XAML       1 min                                        0.06 % 
+TOML       0 secs                                       0.01 % 
+Git Config 0 secs                                       0.01 % 
+Docker     0 secs                                       0.00 % 
 ```
 <!--END_SECTION:waka-->
 
