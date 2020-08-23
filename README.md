@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Go            6 hrs 48 mins ████████████████            63.52 % 
-C               1 hr 9 mins ██                          10.77 % 
-C#                  56 mins ██                           8.86 % 
-Markdown            27 mins █                            4.33 % 
-HTML                19 mins                              3.01 % 
+Go             4 hrs 35 mins ██████████████              57.66 % 
+C                1 hr 9 mins ███                         14.48 % 
+C#               1 hr 2 mins ███                         13.02 % 
+Batchfile            13 mins                              2.76 % 
+CSV                  11 mins                              2.42 % 
 ```
 <!--END_SECTION:waka-->
 
