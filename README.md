@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-C#        6 hrs 16 mins ███████████                 47.03 % 
-C++       5 hrs 53 mins ███████████                 44.11 % 
-Text            26 mins                              3.32 % 
-C               26 mins                              3.29 % 
-XAML             7 mins                              0.95 % 
+C++           6 hrs 55 mins █████████                   38.37 % 
+C#            6 hrs 19 mins ████████                    35.01 % 
+Makefile       1 hr 22 mins ██                           7.65 % 
+Java                54 mins █                            5.02 % 
+Go                  47 mins █                            4.38 % 
 ```
 <!--END_SECTION:waka-->
 
