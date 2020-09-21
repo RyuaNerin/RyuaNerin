@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Diff          7 hrs 45 mins ███████████                 46.23 % 
-C++           4 hrs 37 mins ███████                     27.57 % 
-Bash           1 hr 32 mins ██                           9.22 % 
-Docker          1 hr 6 mins █                            6.59 % 
-Makefile            44 mins █                            4.43 % 
+Diff          8 hrs 22 mins ███████████                 45.68 % 
+Bash          5 hrs 21 mins ███████                     29.18 % 
+Docker         1 hr 16 mins █                            6.94 % 
+Groovy              54 mins █                            5.00 % 
+Makefile            53 mins █                            4.83 % 
 ```
 <!--END_SECTION:waka-->
 
