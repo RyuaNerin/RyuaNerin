@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Bash         12 hrs 22 mins ████████████                47.83 % 
-Diff          7 hrs 43 mins ███████                     29.86 % 
-Makefile       1 hr 52 mins █                            7.27 % 
-Java                58 mins █                            3.79 % 
-Groovy              47 mins                              3.09 % 
+Bash          12 hrs 4 mins █████████████               54.12 % 
+Diff          4 hrs 28 mins █████                       20.03 % 
+Makefile       1 hr 52 mins ██                           8.42 % 
+Java                58 mins █                            4.39 % 
+Groovy              47 mins █                            3.58 % 
 ```
 <!--END_SECTION:waka-->
 
