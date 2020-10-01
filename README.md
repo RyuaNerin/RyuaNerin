@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Bash         5 hrs 9 mins █████████████               54.37 % 
-Other        1 hr 11 mins ███                         12.53 % 
-C++           1 hr 8 mins ███                         12.07 % 
-Python            41 mins █                            7.29 % 
-Go                24 mins █                            4.34 % 
+Bash        4 hrs 20 mins ████████████                51.30 % 
+Other        1 hr 11 mins ███                         14.05 % 
+C++           1 hr 8 mins ███                         13.53 % 
+Python            41 mins ██                           8.18 % 
+Go                24 mins █                            4.86 % 
 ```
 <!--END_SECTION:waka-->
 
