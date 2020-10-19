@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-JavaScript      4 hrs 20 mins ███████████                 47.33 % 
-Go               1 hr 17 mins ███                         14.09 % 
-C#                1 hr 7 mins ███                         12.17 % 
-Arduino               57 mins ██                          10.42 % 
-HTML                  27 mins █                            5.07 % 
+C#          1 hr 7 mins ███████████                 45.40 % 
+Go              42 mins ███████                     28.45 % 
+JSON            14 mins ██                           9.76 % 
+C++             11 mins ██                           8.06 % 
+XAML             3 mins                              2.43 % 
 ```
 <!--END_SECTION:waka-->
 
