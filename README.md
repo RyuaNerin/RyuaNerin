@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-C#          1 hr 7 mins ███████████                 45.40 % 
-Go              42 mins ███████                     28.45 % 
-JSON            14 mins ██                           9.76 % 
-C++             11 mins ██                           8.06 % 
-XAML             3 mins                              2.43 % 
+C#            1 hr 7 mins ██████████                  39.88 % 
+Go                42 mins ██████                      24.99 % 
+Python            19 mins ███                         11.83 % 
+JSON              14 mins ██                           8.58 % 
+C++               11 mins █                            7.08 % 
 ```
 <!--END_SECTION:waka-->
 
