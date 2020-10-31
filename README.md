@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Python           3 hrs 6 mins ███████████████             60.86 % 
-HTML                  56 mins ████                        18.37 % 
-Markdown              28 mins ██                           9.42 % 
-JavaScript            19 mins █                            6.20 % 
-Go                     8 mins                              2.61 % 
+Python           3 hrs 6 mins ██████████████              58.27 % 
+HTML                  56 mins ████                        17.58 % 
+Markdown              28 mins ██                           9.02 % 
+JavaScript            19 mins █                            5.93 % 
+Bash                  13 mins █                            4.25 % 
 ```
 <!--END_SECTION:waka-->
 
