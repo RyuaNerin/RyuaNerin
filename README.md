@@ -15,11 +15,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Java            2 hrs 27 mins █████████                   38.98 % 
-Bash             1 hr 33 mins ██████                      24.87 % 
-HTML                  56 mins ███                         14.94 % 
-Markdown              34 mins ██                           9.25 % 
-JavaScript            19 mins █                            5.03 % 
+Java          5 hrs 42 mins ████████████████            65.16 % 
+Bash           1 hr 33 mins ████                        17.86 % 
+Markdown            35 mins █                            6.78 % 
+XML                 24 mins █                            4.72 % 
+Go                  13 mins                              2.55 % 
 ```
 <!--END_SECTION:waka-->
 
