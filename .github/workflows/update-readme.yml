@@ -9,6 +9,7 @@ on:
       - master
     paths: 
       - README.md
+      - .github/workflows/*
 
 jobs:
   update-readme:
