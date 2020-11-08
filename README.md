@@ -33,11 +33,6 @@ Go             345,629 lines ██                         8.65 %
 HTML           262,342 lines █                          6.56 %
 C++            145,060 lines █                          3.63 %
 JavaScript     106,744 lines                            2.67 %
-CSS             42,778 lines                            1.07 %
-Python          11,716 lines                            0.29 %
-Shell            8,387 lines                            0.21 %
-TypeScript       7,976 lines                            0.20 %
-C                4,356 lines                            0.11 %
 ```
 <!--END_SECTION:top_language-->
 
