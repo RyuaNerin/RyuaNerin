@@ -28,11 +28,11 @@ Groovy             8 mins                              0.96 %
   📊 **development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
-C#             3.61 MiB ███████████               44.38 %
-JavaScript     1.01 MiB ███                       12.35 %
-Go           973.63 KiB ███                       11.69 %
-CSS          739.71 KiB ██                         8.88 %
-HTML         637.18 KiB ██                         7.65 %
+C#             3.61 MiB █████████████             51.64 %
+Go           973.63 KiB ███                       13.60 %
+HTML         637.18 KiB ██                         8.90 %
+Java         522.66 KiB █                          7.30 %
+JavaScript   489.57 KiB █                          6.84 %
 ```
 <!--END_SECTION:top_language-->
 
