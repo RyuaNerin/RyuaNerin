@@ -25,7 +25,7 @@ Groovy             8 mins                              0.96 %
 
   -------
 
-  📊 **development language usage statistics**
+  📊 **Development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
 C#                   3.61 MiB █████████████             51.63 %
