@@ -26,4 +26,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           DONE_BLOCK: '█'
           EMPTY_BLOCK: ' '
-          LIST_COUNT: 5
+          LIST_COUNT: 10
