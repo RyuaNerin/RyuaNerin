@@ -28,11 +28,16 @@ Groovy             8 mins                              0.96 %
   📊 **development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
-C#           3,057,137 lines ███████████████████       76.48 %
-Go             345,629 lines ██                         8.65 %
-HTML           262,342 lines █                          6.56 %
-C++            145,060 lines █                          3.63 %
-JavaScript     106,744 lines                            2.67 %
+C#                 3,786,361 lines █████████                 37.98 %
+JavaScript         1,893,321 lines ████                      18.99 %
+CSS                1,356,878 lines ███                       13.61 %
+Go                   997,349 lines ██                        10.00 %
+HTML                 652,475 lines █                          6.54 %
+Java                 535,205 lines █                          5.37 %
+Python               262,925 lines                            2.64 %
+C++                  208,969 lines                            2.10 %
+PHP                  153,567 lines                            1.54 %
+Jupyter Notebook      63,307 lines                            0.63 %
 ```
 <!--END_SECTION:top_language-->
 
