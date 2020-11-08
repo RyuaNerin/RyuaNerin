@@ -24,10 +24,12 @@ Groovy             8 mins                              0.96 %
 <!--END_SECTION:waka-->
 
   -------
-  
+
+  📊 **Development language stats**
 <!--START_SECTION:top_language-->
-  
 <!--END_SECTION:top_language-->
+
+  -------
 
   [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)
 
