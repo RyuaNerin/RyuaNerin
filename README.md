@@ -29,14 +29,14 @@ Bash                34 mins                              3.09 %
   📊 **Development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
-C#             4.16 MiB █████████████             54.53 %
-Go           973.63 KiB ███                       12.48 %
-HTML         637.18 KiB ██                         8.17 %
-Java         522.66 KiB █                          6.70 %
+C#             4.16 MiB █████████████             54.50 %
+Go           973.63 KiB ███                       12.47 %
+HTML         637.18 KiB ██                         8.16 %
+Java         522.66 KiB █                          6.69 %
 JavaScript   489.57 KiB █                          6.27 %
 Python       260.54 KiB                            3.34 %
 C++          215.68 KiB                            2.76 %
-PHP          157.29 KiB                            2.02 %
+PHP          157.29 KiB                            2.01 %
 CSS          108.49 KiB                            1.39 %
 C             62.11 KiB                            0.80 %
 ```
