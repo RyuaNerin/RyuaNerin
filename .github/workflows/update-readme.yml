@@ -25,3 +25,4 @@ jobs:
         with:
           DONE_BLOCK: '█'
           EMPTY_BLOCK: ' '
+          LIST_COUNT: 5
