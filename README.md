@@ -28,16 +28,11 @@ Groovy             8 mins                              0.96 %
   📊 **development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
-C#                  █████████████             51.63 %
-Go                  ███                       13.60 %
-HTML                ██                         8.90 %
-Java                █                          7.30 %
-JavaScript          █                          6.84 %
-Python              █                          3.60 %
-C++                                            2.85 %
-PHP                                            2.09 %
-CSS                                            1.51 %
-Jupyter Notebook                               0.86 %
+C#            █████████████             51.63 %
+Go            ███                       13.60 %
+HTML          ██                         8.90 %
+Java          █                          7.30 %
+JavaScript    █                          6.84 %
 ```
 <!--END_SECTION:top_language-->
 
