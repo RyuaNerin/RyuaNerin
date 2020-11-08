@@ -15,3 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           DONE_BLOCK: '█'
           EMPTY_BLOCK: ' '
+      - uses: ryuanerin/top-languages-readme@master
+        with:
+          DONE_BLOCK: '█'
+          EMPTY_BLOCK: ' '
