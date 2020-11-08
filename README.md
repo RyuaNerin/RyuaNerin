@@ -25,7 +25,7 @@ Groovy             8 mins                              0.96 %
 
   -------
 
-  📊 **Development language stats**
+  📊 **development language usage statistics**
 <!--START_SECTION:top_language-->
 ```text
 C#           3,057,137 lines ███████████████████       76.48 %
