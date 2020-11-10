@@ -16,11 +16,11 @@
 
   <!--START_SECTION:waka-->
 ```text
-Java         11 hrs 11 mins ███████████████             61.36 % 
-Python         4 hrs 6 mins █████                       22.55 % 
-Markdown            57 mins █                            5.24 % 
-XML                 46 mins █                            4.24 % 
-Go                  22 mins                              2.04 % 
+Java          8 hrs 51 mins █████████████               53.16 % 
+Python         4 hrs 6 mins ██████                      24.68 % 
+C                   58 mins █                            5.89 % 
+Markdown            51 mins █                            5.11 % 
+XML                 43 mins █                            4.37 % 
 ```
 <!--END_SECTION:waka-->
 
