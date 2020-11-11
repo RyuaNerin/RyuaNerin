@@ -26,3 +26,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
           LIST_COUNT: 10
+          SHOW_TOTAL: true
