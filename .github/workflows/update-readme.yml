@@ -24,6 +24,5 @@ jobs:
       - uses: ryuanerin/top-languages-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          DONE_BLOCK: '█'
-          EMPTY_BLOCK: ' '
+          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
           LIST_COUNT: 10
