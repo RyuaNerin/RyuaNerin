@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: 0 3,9,15,21 * * *
   push:
-    branches:
+    branches:https://github.com/RyuaNerin/RyuaNerin
       - master
     paths: 
       - README.md
@@ -19,8 +19,8 @@ jobs:
       - uses: ryuanerin/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          DONE_BLOCK: '█'
-          EMPTY_BLOCK: ' '
+          BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
+          
       - uses: ryuanerin/top-languages-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
