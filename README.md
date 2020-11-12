@@ -8,10 +8,6 @@
   [![Keybase Badge](https://img.shields.io/badge/-Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/ryuanerin)
   [![Keybase PGP](https://img.shields.io/keybase/pgp/ryuanerin?style=for-the-badge)](http://pool.sks-keyservers.net/pks/lookup?search=0x542be8eacfb31f3e+&fingerprint=on&hash=on&exact=on&op=index)
   [![Gmail Badge](https://img.shields.io/badge/-Mail.Ru-168DE2?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:admin@ryuar.in) 
-
-
-  ![Csharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
   
   Amateur Programmer who like C#, go
 
