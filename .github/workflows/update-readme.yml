@@ -3,7 +3,7 @@ name: Update Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 3,9,15,21 * * *
+    - cron: 0 * * * *
   push:
     branches:
       - master
