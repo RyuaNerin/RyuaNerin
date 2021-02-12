@@ -17,8 +17,7 @@
 
   <!--START_SECTION:waka-->
 ```text
-C#      1 hr 25 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀   73.25 % 
-Other        30 mins ⣿⣿⣿⣿⣿⣿⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.56 % 
+
 ```
 <!--END_SECTION:waka-->
 
