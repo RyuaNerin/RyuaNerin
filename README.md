@@ -17,7 +17,7 @@
 
   <!--START_SECTION:waka-->
 ```text
-
+Go   11 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⣀   93.80 % 
 ```
 <!--END_SECTION:waka-->
 
