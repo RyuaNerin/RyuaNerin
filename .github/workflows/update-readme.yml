@@ -18,6 +18,7 @@ jobs:
     steps:
       - uses: ryuanerin/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           API_BASE_URL: 'https://waka.ryuar.in/api'
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
