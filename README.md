@@ -34,6 +34,14 @@ TOTAL          4.62 MiB ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   
   -------
 
+  📊 **Weekly development breakdown**
+  <!--START_SECTION:waka-->
+```text
+```
+  <!--END_SECTION:waka-->
+
+  -------
+
   [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=RyuaNerin&repo=portfolio)](https://github.com/RyuaNerin/portfolio)
 
 </div>
