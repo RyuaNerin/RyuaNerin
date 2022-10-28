@@ -11,6 +11,11 @@ on:
       - README.md
       - .github/workflows/*
 
+
+concurrency: 
+  group: ryuanerin-update-readme
+  cancel-in-progress: true
+  
 jobs:
   update-readme:
     name: Update this repo's README
