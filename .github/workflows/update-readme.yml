@@ -30,7 +30,7 @@ jobs:
           
       - uses: ryuanerin/top-languages-readme@master
         with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BLOCKS: '⣀⣄⣆⣇⣧⣷⣿'
           LIST_COUNT: 10
           SHOW_TOTAL: true
