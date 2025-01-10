@@ -27,7 +27,7 @@ TOTAL          6.14 MiB ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   📊 **Weekly development breakdown**
   <!--START_SECTION:waka-->
 ```text
-Go   0 hrs 6 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </div>
