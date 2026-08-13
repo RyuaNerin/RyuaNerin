@@ -25,11 +25,11 @@ TOTAL          6.41 MiB ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
   📊 **Weekly development breakdown**
   <!--START_SECTION:waka-->
 ```text
-Go        3 hrs 56 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.42 % 
-Python    1 hrs 17 mins ⣿⣿⣿⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.52 % 
-C#        1 hrs 12 mins ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.71 % 
-YAML      0 hrs 47 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    8.30 % 
-Unknown   0 hrs 28 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    4.92 % 
+Go        4 hrs 40 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.60 % 
+Python    1 hrs 17 mins ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.55 % 
+C#        1 hrs 12 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.80 % 
+YAML      0 hrs 47 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    7.71 % 
+Unknown   0 hrs 28 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀    4.56 % 
 ```
 <!--END_SECTION:waka-->
 </div>
